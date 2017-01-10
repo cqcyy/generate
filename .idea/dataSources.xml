@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1670245356">
+    <data-source source="LOCAL" name="Oracle - orcl5@192.168.0.246" uuid="ae26e4c2-d1d7-425c-9f1d-014563ed1785">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//192.168.0.246:1521/orcl5</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/ojdbc14-10.2.0.4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
